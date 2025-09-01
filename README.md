@@ -15,7 +15,7 @@ Este projeto implementa e compara três algoritmos de ordenação em diferentes 
      - Melhor caso (vetor ordenado): **O(n)**  
 
 3. **qsort (C Standard Library)**  
-   - Implementação otimizada de **Quicksort** (pode usar estratégias híbridas).  
+   - Implementação otimizada de **Quicksort**.  
    - Muito mais eficiente para grandes valores de **n**.  
 
 ---
